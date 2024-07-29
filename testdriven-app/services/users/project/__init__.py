@@ -13,6 +13,6 @@ def ping_pong():
     return jsonify({
         'status': 'success',
         'message': 'pong',
-        'message2': 'pong2'
+        'message3': 'pong3'
 
     })
